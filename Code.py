@@ -1,5 +1,4 @@
-# Written by Andrei Teodor Lazar -> UCL 2019
-# Student Number: 18009942
+# Written by Andrei Teodor Lazar 
 
 import matplotlib.pyplot as plt
 import time
